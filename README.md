@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".assets/fotos/preview.png" width="100%">
+  <img alt="OriginSix" src="assets/fotos/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
